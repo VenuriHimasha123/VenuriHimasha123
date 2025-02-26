@@ -27,8 +27,8 @@ I'm **Venuri Himasha**, an Undergraduate of General Sir John Kotelawala Defence 
 
 
 ### 📫 How to reach me:
-- 📧 [Email](venurihimasha123@gmail.com)
-- 🌐 [LinkedIn]([https://linkedin.com/in/VenuriHimasha](https://www.linkedin.com/in/venuri-hendavitharana-746553322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 📧 [Email](mailto:venurihimasha123@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/venuri-hendavitharana-746553322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 ---
