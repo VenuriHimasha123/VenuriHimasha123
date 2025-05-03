@@ -1,60 +1,66 @@
-## Hi  👋
+<h1 align="center" style="color:#D16BA5;">Hi there, I'm <b>Venuri Himasha</b> 👋</h1>
 
-I'm **Venuri Himasha**, an Undergraduate of General Sir John Kotelawala Defence University.
+<p align="center" style="color:#A044FF;">
+  🎓 Undergraduate at <b>General Sir John Kotelawala Defence University (KDU)</b> <br/>
+  💻 CS undergraduate | Volunteer | Educator <br/>
+ 
+</p>
 
----
-### 📚 About Me
-- 🎓 **BSc (Hons) in Computer Science** | General Sir John Kotelawala Defence University
-- 🎨 Passionate about **traveling**, **drawing**, and **creating impactful content**.
-
-
----
-### 🏆 Achievements
-- 🏅 Python Certified | University of Moratuwa
-- 🏅 Cisco-certified | Introduction to Networks (MORA)
-- 🥉 Second Runner-Up | Debate Competition | Aquinas College of Higher Studies
----
-
-
-### 👯 I’m looking to collaborate on:
-- **Open-source projects** that aim to solve real-world challenges.
-- Creative and impactful **content creation** campaigns.
-- Innovative ideas in **education technology**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/venuri-hendavitharana" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23D16BA5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="venurihimasha123@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23A044FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+</p>
 
 ---
 
+## 🌸 About Me
 
-
-
-### 📫 How to reach me:
-- 📧 [Email](mailto:venurihimasha123@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/venuri-hendavitharana-746553322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
----
-
-### 😄 Pronouns:
-- She/Her
+- 👩‍💻 Passionate about **Web Development** and **Software Engineering**
+- 🌐 Volunteer at **IEEE**
+- 🏆 Certified in Python, Cisco Networks, and Maths Competitions
+- 🎯 Goal: Become an impactful IT professional 
+- 🐇 Fun fact: Love traveling & drawing ✈️🎨
 
 ---
 
-### ⚡ Fun fact:
+## 💜 Tech Stack
 
-- I believe every complex problem has a simple and creative solution.
+<p>
+  <img src="https://img.shields.io/badge/Java-%23A044FF?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-%23D16BA5?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%23F15BB5?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23A044FF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%23D16BA5?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%23F15BB5?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%23A044FF?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourgithubusername&theme=radical" width="47%"/>
+</p>
 
 ---
 
 
-### 🛠️ Skills & Tools
-- **Languages**: Java, Python, SQL, C++
+## 🎯 Let's Connect!
+
+
+- 📧 venurihimasha123@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/venuri-hendavitharana)
 
 ---
 
-
-
-
-
-
-
-Feel free to connect or collaborate with me! 😊
-
+<p align="center" style="color:#D16BA5;">
+  <b>“Success is not final, failure is not fatal: it is the courage to continue that counts.”</b> <br/>
+  — Winston Churchill
+</p>
