@@ -4,7 +4,7 @@
 
 <p align="center" style="color:#A044FF;">
   🎓 Undergraduate at <b>General Sir John Kotelawala Defence University (KDU)</b> <br/>
-  💻 CS undergraduate | Volunteer | Educator <br/>
+  💻 CS undergraduate | Volunteer  <br/>
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=7F00FF,D16BA5&height=150&section=header&text=💜%20About%20Me%20💜&fontSize=40&fontColor=ffffff" />
 </p>
 
-- 🎓 Undergraduate at **General Sir John Kotelawala Defence University (KDU)**
-- 👩‍💻 Exploring **Web Development** | **Software Engineering** | **Creative Tech**
+
+- 👩‍💻 Exploring **Web Development** | **Software Engineering** 
 - 🌟 Volunteer at **IEEE**
 - ✨ Passionate about  **traveling**, and **loving pets**
-- 🌱 Always learning, always growing 💫
+
 
 ## 💜 Tech Stack
 
