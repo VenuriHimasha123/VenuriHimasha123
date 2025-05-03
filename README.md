@@ -19,14 +19,15 @@
 
 ---
 
-## 💜 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=7F00FF,D16BA5&height=150&section=header&text=💜%20About%20Me%20💜&fontSize=40&fontColor=ffffff" />
+</p>
 
-- 👩‍💻 Passionate about **Web Development** and **Software Engineering**
-- 🌐 Volunteer at **IEEE**
-- 🎯 Goal: Become an impactful IT professional 
-- 🐇 Fun fact: Love traveling & pet lover ✈️🎨
-
----
+- 🎓 Undergraduate at **General Sir John Kotelawala Defence University (KDU)**
+- 👩‍💻 Exploring **Web Development** | **Software Engineering** | **Creative Tech**
+- 🌟 Volunteer at **IEEE**
+- ✨ Passionate about  **traveling**, and **loving pets**
+- 🌱 Always learning, always growing 💫
 
 ## 💜 Tech Stack
 
