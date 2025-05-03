@@ -5,7 +5,6 @@
 <p align="center" style="color:#A044FF;">
   🎓 Undergraduate at <b>General Sir John Kotelawala Defence University (KDU)</b> <br/>
   💻 CS undergraduate | Volunteer | Educator <br/>
- 
 </p>
 
 <p align="center">
@@ -20,13 +19,12 @@
 
 ---
 
-## 🌸 About Me
+## 💜 About Me
 
 - 👩‍💻 Passionate about **Web Development** and **Software Engineering**
 - 🌐 Volunteer at **IEEE**
-- 🏆 Certified in Python, Cisco Networks, and Maths Competitions
 - 🎯 Goal: Become an impactful IT professional 
-- 🐇 Fun fact: Love traveling & drawing ✈️🎨
+- 🐇 Fun fact: Love traveling & pet lover ✈️🎨
 
 ---
 
