@@ -1,4 +1,6 @@
-<h1 align="center" style="color:#D16BA5;">Hi there, I'm <b>Venuri Himasha</b> 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=7F00FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+there%2C+I'm+Venuri+Himasha+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 <p align="center" style="color:#A044FF;">
   🎓 Undergraduate at <b>General Sir John Kotelawala Defence University (KDU)</b> <br/>
