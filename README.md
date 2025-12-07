@@ -20,10 +20,11 @@
 - 🤔 I’m looking for help with Open source Contribution.
 - ⚙️ I use daily: `.js`, `.jsx`, `.css`, `.less`, `.ts`
 - 💬 Ping me about **fullstack**, **development**, **design**
+- <img src="https://komarev.com/ghpvc/?username=VenuriHimasha123&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
 </td>
 </tr>
 </table>
@@ -128,7 +129,8 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=VenuriHimasha123&theme=chartreuse-dark&show_icons=true&count_private=true" />
+ ![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VenuriHimasha123&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VenuriHimasha123&theme=chartreuse-dark&hide_border=false" /> 
 </td>
@@ -140,6 +142,8 @@
 </tr>
 </table>
 
+## 🐍 A Snake Eating my Contributions Graph
+
 <p >
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
@@ -148,20 +152,11 @@
     </picture>
 </p>
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/VenuriHimasha123/VenuriHimasha123/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
 <p align="center">
-  <a href="https://ashu-guo.github.io/blogs/" target="_blank">
-    <img align="center" alt="ashu-guo | blogs" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/vitepress.svg" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://profile-summary-for-github.herokuapp.com/user/ashu-guo" target="_blank">
+ 
+  <a href="https://github.com/VenuriHimasha123/VenuriHimasha123" target="_blank">
     <img align="center" alt="ashu-guo | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 
@@ -171,7 +166,11 @@
   </a> &nbsp;&nbsp;
 <p>
 
-
 ---
-
+<h3 align="center">
+ if you like what i do, maybe consider buying me a coffee 🥺💛
+	</h3>
+<p align="center">
+<a href="https://www.buymeacoffee.com/itsmeshibintmz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" width="200" /></a>
+</p>
 
