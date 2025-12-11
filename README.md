@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%27E7F5&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Venuri+Himasha;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Venuri+Himasha;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 <br>
@@ -15,7 +15,7 @@
 <td width="50%" align="left">
 
 - 🔭 I’m currently working on `web` Development.
-- 🌱 I’m an CS undergraduate of `KDU` .
+- 🌱 I’m a CS undergraduate at `KDU` .
 - 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
 - 🤔 I’m looking for help with Open source Contribution.
 - ⚙️ I use daily: `.js`, `.jsx`, `.css`, `.less`, `.ts`
@@ -157,12 +157,16 @@
 <p align="center">
  
   <a href="https://github.com/VenuriHimasha123/VenuriHimasha123" target="_blank">
-    <img align="center" alt="ashu-guo | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" alt="venuri | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 
 
   <a href="mailto:venurihimasha123@gmail.com" >
-    <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
+    <img align="center" alt="venuri | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
+  </a> &nbsp;&nbsp;
+
+  <a href="mailto:venurihimasha123@gmail.com" >
+    <img align="center" alt="linkedin | Gmail" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" />
   </a> &nbsp;&nbsp;
 <p>
 
