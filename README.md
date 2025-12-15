@@ -60,7 +60,7 @@
  ![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VenuriHimasha123&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
   <br></br>
- <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=VenuriHimasha123&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VenuriHimasha123&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="My Github Stats">
 
 </td>
 <td width="50%" align="center">
