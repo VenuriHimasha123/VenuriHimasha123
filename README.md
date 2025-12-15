@@ -20,7 +20,25 @@
 - 🤔 I’m looking for help with Open source Contribution.
 - ⚙️ I use daily: `.js`, `.jsx`, `.css`, `.less`, `.ts`
 - 💬 Ping me about **fullstack**, **development**, **design**
-- <img src="https://komarev.com/ghpvc/?username=VenuriHimasha123&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
+- <img src="https://komarev.com/ghpvc/?username=VenuriHimasha123&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" />
+
+  ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
+
+<p align="center">
+ 
+  <a href="https://github.com/VenuriHimasha123" target="_blank">
+    <img align="center" alt="venuri | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+
+
+  <a href="mailto:venurihimasha123@gmail.com" >
+    <img align="center" alt="venuri | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/venurihendavitharana/" >
+    <img align="center" alt="linkedin | Gmail" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" />
+  </a> &nbsp;&nbsp;
+<p>
 
 </td>
 <td width="50%" align="center">
@@ -62,23 +80,7 @@
     </picture>
 </p>
 
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
-<p align="center">
- 
-  <a href="https://github.com/VenuriHimasha123" target="_blank">
-    <img align="center" alt="venuri | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-
-
-  <a href="mailto:venurihimasha123@gmail.com" >
-    <img align="center" alt="venuri | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/venurihendavitharana/" >
-    <img align="center" alt="linkedin | Gmail" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" />
-  </a> &nbsp;&nbsp;
-<p>
 
 ---
 <h3 align="center">
