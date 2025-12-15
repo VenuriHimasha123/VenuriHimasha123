@@ -60,7 +60,8 @@
  ![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=VenuriHimasha123&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VenuriHimasha123&theme=chartreuse-dark&hide_border=false" /> 
+ <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=VenuriHimasha123&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenuriHimasha123&layout=compact&theme=gotham&langs_count=8"/>
 </td>
 <td width="50%" align="center">
 
