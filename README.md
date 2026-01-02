@@ -74,6 +74,8 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 
+![snake gif](https://github.com/VenuriHimasha123/VenuriHimasha123/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
