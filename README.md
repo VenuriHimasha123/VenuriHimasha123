@@ -71,13 +71,6 @@
 </tr>
 </table>
 
-## 🐍 A Snake Eating my Contributions Graph
-
-
-![snake gif](https://github.com/VenuriHimasha123/VenuriHimasha123/blob/output/github-contribution-grid-snake.svg)
-
-
-
 ---
 <h3 align="center">
  if you like what i do, maybe consider buying me a coffee 💛
