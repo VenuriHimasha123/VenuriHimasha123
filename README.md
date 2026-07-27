@@ -19,6 +19,7 @@
 - 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
 - 🤔 I’m looking for help with Open source Contribution.
 - ⚙️ I use daily: `.js`, `.jsx`, `.css`, `.less`, `.ts`
+-  💬 Ping me about **fullstack**, **development**, **design**
 
 - <img src="https://komarev.com/ghpvc/?username=VenuriHimasha123&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" />
 
